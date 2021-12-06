@@ -1,6 +1,4 @@
-# Tailwind CSS v2.0 | Nuxt Setup and Install
 
-Source Code for Setup and Install Nuxt with Tailwindcss v2.0 on <a href="https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw" title="Subscribe to CodeWithChu Youtube Channel" target="_blank">CodeWithChu</a> YouTube Channel.
 
 ## Install
 
